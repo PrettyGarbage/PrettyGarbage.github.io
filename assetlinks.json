@@ -1,0 +1,11 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.linegames.ct2",
+        "sha256_cert_fingerprints":
+          ["3B:6B:76:79:90:A1:4D:C4:3F:83:49:94:45:DF:A9:1B:C1:60:20:17:40:60:74:FD:FE:21:3A:FD:F8:4D:8F:75"]
+      }
+    }
+  ]
